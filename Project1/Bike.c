@@ -8,7 +8,7 @@
 
 
 static GLfloat xRot = 0.0f;
-static GLfloat yRot = 0.0f;
+static GLfloat yRot = 10.0f;
 
 static GLfloat deg = 0.0f;
 
